@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name Keebio)(type KiCad)(uri ${KIPRJMOD}/lib/Keebio.pretty-master)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri ${KIPRJMOD}/lib/keebs.pretty-master)(options "")(descr ""))
+  (lib (name Keyboard)(type KiCad)(uri ${KIPRJMOD}/lib/Keyboard.pretty-master)(options "")(descr ""))
+  (lib (name MX_Alps_Hybrid)(type KiCad)(uri ${KIPRJMOD}/lib/MX_Alps_Hybrid.pretty-master)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri ${KIPRJMOD}/lib/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name "Proton C")(type KiCad)(uri "${KIPRJMOD}/lib/Proton C")(options "")(descr ""))
+)
