@@ -1,5 +1,6 @@
 # KVT
 Open source southpaw mechanical keyboard. This Github comes with both the project files and libraries used on the project.
+### Note
 I do not own the libraries used, I have only modified them to fit my needs.
 
 ## Features
