@@ -5,10 +5,12 @@ Note I do not own the libraries used, I have only modified them to fit my needs.
 ## Features
 * USB Type-C
 * Southpaw Layout
-* All Through Hole Components so easy to solder
+* All Through Hole Components
+* QMK
 
 ## Components Needed
 * Proton_C: 1
+* KVT PCB: 1
 * MX Style Switches: 104
 * 1N4148 Through Hole Diodes: 104
 * 470Ω resistors: 104
