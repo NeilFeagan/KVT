@@ -1,12 +1,11 @@
 # KVT
 Open source southpaw mechanical keyboard. This Github comes with both the project files and libraries used on the project.
-### Note
-I do not own the libraries used, I have only modified them to fit my needs.
+Note I do not own the libraries used, I have only modified them to fit my needs.
 
 ## Features
-USB Type-C
-Southpaw Layout
-All Through Hole Components so easy to solder
+* USB Type-C
+* Southpaw Layout
+* All Through Hole Components so easy to solder
 
 ## Components Needed
 * Proton_C: 1
