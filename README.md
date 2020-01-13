@@ -26,7 +26,7 @@ After installation you need to compile the firmware; To compile the firmware for
  make kv\revT:default
 ```
 ## Keymaps
-The default keymap
+![Default Keymap](https://imgur.com/nPwxzdU)
 
 ## Warning
 KiCad 5.1.2 or above is needed to open this project. KiCad 4 or below won't work.
