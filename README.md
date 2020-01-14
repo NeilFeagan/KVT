@@ -32,7 +32,7 @@ After installation you need to compile the firmware; To compile the firmware for
 ![Default Keymap](Images/Default_Keymap.png)
 
 ##### FN Layer Keymap
-![FN Keymap](Images/Fn_keymap.png)
+![FN Keymap](Images/Fn_Keymap.png)
 
 ## Warning
 KiCad 5.1.2 or above is needed to open this project. KiCad 4 or below won't work.
