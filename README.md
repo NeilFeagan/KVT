@@ -27,7 +27,7 @@ To install QMK visit QMK's official website https://docs.qmk.fm/#/
 After installation you need to compile the firmware; To compile the firmware for the Proton_C type this into the terminal after installing QMK
 
 ```
- make kv\revT:default
+ make kv\revt:default
 ```
 ## Keymaps
 Default Keymap
