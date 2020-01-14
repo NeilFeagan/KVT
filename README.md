@@ -28,7 +28,11 @@ After installation you need to compile the firmware; To compile the firmware for
  make kv\revT:default
 ```
 ## Keymaps
-![Default Keymap](Images/Default_Keymap.jpg)
+##### Default Keymap
+![Default Keymap](Images/Default_Keymap.png)
+
+##### FN Layer Keymap
+![FN Keymap](Images/Fn_keymap.png)
 
 ## Warning
 KiCad 5.1.2 or above is needed to open this project. KiCad 4 or below won't work.
