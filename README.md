@@ -6,6 +6,7 @@ Note I do not own the libraries used, I have only modified them to fit my needs.
 * USB Type-C
 * Southpaw Layout
 * All Through Hole Components
+* LED Support
 * QMK
 
 ## Components Needed
