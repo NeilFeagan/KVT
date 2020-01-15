@@ -42,4 +42,6 @@ This keyboard does not include a backplate or case, you will have to make your o
 KiCad 5.1.2 or above is needed to open this project. KiCad 4 or below won't work.
 
 ## Notes
-I made this keyboard for a personal project, I am new to the circuit/keyboard designing in game. If you have any suggestions on improving the design in any form or fashion. If you open the pcb design you will see a bunch of numbers to the left of the finished design, those are spacing numbers for the footprints that I used.   
+I made this keyboard for a personal project, I am new to the circuit/keyboard designing in game. If you open the pcb design you will see a bunch of numbers to the left of the finished design, those are spacing numbers for the footprints that I used.   
+
+If you have any suggestions on improving the design message me on Reddit u/Hybrid65, thank you.  
