@@ -9,7 +9,7 @@ Note I do not own the libraries used, I have only modified them to fit my needs.
 * LED Support
 * QMK
 
-## Components Needed
+## Bill Of Materials
 * Proton_C: 1
 * KVT PCB: 1
 * MX Style Switches: 104
