@@ -24,8 +24,7 @@ To install QMK visit QMK's official website https://docs.qmk.fm/#/
 
 **You will need all the sub-modules to compile the firmware**
 
-After installation you need to compile the firmware; To compile the firmware for the Proton_C type this into the terminal after installing QMK
-
+After installation you need to compile the firmware; To compile the firmware for the Proton_C type this into the terminal
 
 ```
  make kv\revt:default
