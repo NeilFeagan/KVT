@@ -14,9 +14,10 @@ Note I do not own the libraries used, I have only modified them to fit my needs.
 * KVT PCB: 1
 * MX Style Switches: 104
 * 1N4148 Through Hole Diodes: 104
-* JS102011SAQN Switch: 1
+* JS202011AQN DPDT Switch: 1 (Right Angle)
 * 470Ω resistors: 104
 * LEDs: 104
+
 
 
 ## Installing and Compiling
