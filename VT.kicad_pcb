@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.2)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.5)-3")
 
   (general
     (thickness 1.6)
@@ -13270,7 +13270,7 @@
   (gr_text f1 (at 249.062 49.55) (layer F.SilkS) (tstamp 5E091870)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text enter (at 187.15 99.1369) (layer F.SilkS) (tstamp 5E091683)
+  (gr_text + (at 187.15 99.1369) (layer F.SilkS) (tstamp 5E091683)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text delete (at 168.1 144.7619) (layer F.SilkS) (tstamp 5E0914C5)
